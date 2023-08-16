@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    background-color: rgb(203, 131, 131);
+    height: 85vh;
+}
+.guess-input{
+    width: 25rem;
+    height: 3rem;
+}
